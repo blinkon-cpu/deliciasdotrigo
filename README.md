@@ -13,3 +13,21 @@ A paleta de cores escolhida combina tons brancos muito claros com nuances de cin
 A tipografia utilizada (font-family: "Playfair Display", serif) e as cores das letras, que variam entre preto, marrom e branco, foram selecionadas para proporcionar leitura agradável e harmonia visual, incentivando o visitante a continuar explorando o site. 
 
 As imagens da seção de produtos funcionam como o carro-chefe visual, despertando no usuário o desejo de experimentar os produtos e reforçando a proposta artesanal e saborosa da marca.
+
+Paleta de cores:
+
+#f8f8f8 -Fundo Geral
+
+#3b2a1a - Texto Principal
+
+#d9a25f - Destaque
+
+#a8743a - Destaque Escuro
+
+#ffffff - Fundo de Cards
+
+#6b4c2a - Texto Secundário
+
+#4b3621 - Label Formulário
+
+#b37c37 - Foco Formulário
